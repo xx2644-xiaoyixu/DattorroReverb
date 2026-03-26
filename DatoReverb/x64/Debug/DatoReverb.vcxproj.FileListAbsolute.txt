@@ -1,0 +1,18 @@
+E:\C++ Projects\DatoReverb\x64\Debug\sndfile.dll
+E:\C++ Projects\DatoReverb\x64\Debug\vorbisenc.dll
+E:\C++ Projects\DatoReverb\x64\Debug\vorbis.dll
+E:\C++ Projects\DatoReverb\x64\Debug\ogg.dll
+E:\C++ Projects\DatoReverb\x64\Debug\FLAC.dll
+E:\C++ Projects\DatoReverb\x64\Debug\opus.dll
+E:\C++ Projects\DatoReverb\x64\Debug\mpg123.dll
+E:\C++ Projects\DatoReverb\x64\Debug\libmp3lame.DLL
+E:\C++ Projects\DatoReverb\DatoReverb\x64\Debug\DatoReve.06DF22FE.Up2Date
+E:\C++Projects\DatoReverb\x64\Debug\sndfile.dll
+E:\C++Projects\DatoReverb\x64\Debug\vorbisenc.dll
+E:\C++Projects\DatoReverb\x64\Debug\vorbis.dll
+E:\C++Projects\DatoReverb\x64\Debug\ogg.dll
+E:\C++Projects\DatoReverb\x64\Debug\FLAC.dll
+E:\C++Projects\DatoReverb\x64\Debug\opus.dll
+E:\C++Projects\DatoReverb\x64\Debug\mpg123.dll
+E:\C++Projects\DatoReverb\x64\Debug\libmp3lame.DLL
+E:\C++Projects\DatoReverb\DatoReverb\x64\Debug\DatoReve.06DF22FE.Up2Date

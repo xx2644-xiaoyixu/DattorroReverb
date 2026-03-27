@@ -460,8 +460,8 @@ public:
         if (!std::isfinite(outL)) outL = 0.0;
         if (!std::isfinite(outR)) outR = 0.0;
 
-        outL = soft_clip(outL);
-        outR = soft_clip(outR);
+        outL = soft_clip(outL, drive = 1.0);
+        outR = soft_clip(outR, drive = 1.0);
     }
 
     // block processing by calling pointer

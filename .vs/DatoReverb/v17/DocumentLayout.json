@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C\u002B\u002BProjects\\DatoReverb\\",
+  "WorkspaceRootPath": "E:\\C\u002B\u002BProjects\\DattorroReverb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E50B8A6-C445-4C33-AD41-A77D85FE137D}|DatoReverb.vcxproj|E:\\C\u002B\u002BProjects\\DatoReverb\\DatoReverb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E50B8A6-C445-4C33-AD41-A77D85FE137D}|DatoReverb.vcxproj|E:\\C\u002B\u002BProjects\\DattorroReverb\\DatoReverb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E50B8A6-C445-4C33-AD41-A77D85FE137D}|DatoReverb.vcxproj|solutionrelative:DatoReverb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DatoReverb.cpp",
-              "DocumentMoniker": "E:\\C\u002B\u002BProjects\\DatoReverb\\DatoReverb.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002BProjects\\DattorroReverb\\DatoReverb.cpp",
               "RelativeDocumentMoniker": "DatoReverb.cpp",
-              "ToolTip": "E:\\C\u002B\u002BProjects\\DatoReverb\\DatoReverb.cpp",
+              "ToolTip": "E:\\C\u002B\u002BProjects\\DattorroReverb\\DatoReverb.cpp",
               "RelativeToolTip": "DatoReverb.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-20T06:57:59.404Z",
               "EditorCaption": ""

@@ -46,8 +46,8 @@ The overall signal flow is:
 
 **Tail Output** using tap methods:
 
-y_L = ER_L + delay1[394] + delay1[4401] – apf5[2831] + delay2[2954] – delay3[2945] – apf6[277] - delay4[1066]   
-y_R = ER_R + delay3[522] + delay3[5368] – apf6[1817] + delay4[3956] – delay1[3124] – apf5[496] - delay2[179]
+y_L = delay1[394] + delay1[4401] – apf5[2831] + delay2[2954] – delay3[2945] – apf6[277] - delay4[1066]   
+y_R = delay3[522] + delay3[5368] – apf6[1817] + delay4[3956] – delay1[3124] – apf5[496] - delay2[179]
 
 **Final Output** using mixing method:
 

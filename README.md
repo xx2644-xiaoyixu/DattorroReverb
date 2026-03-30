@@ -42,6 +42,12 @@ The overall signal flow is:
 
 ![APF](Docs/APF.png)
 
+LFO: sine wave with adjustable freq and amp by **sine table lookup** method, leading to the delay line interpolated by **linear interpolation**.
+
+### Early Reflection (Self-defined)
+
+![ER](Docs/ER.jpg)
+
 ### Output
 
 **Tail Output** using tap methods:
